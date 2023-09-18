@@ -1,3 +1,4 @@
+![logo](https://github.com/Afaq0456/Afaq0456/blob/main/Afaq%20Ahmad.png)
 <h1 align="center">Hi 👋, I'm Afaq Ahmad</h1>
 <h3 align="center">Software Engineer from Pakistan</h3>
 
